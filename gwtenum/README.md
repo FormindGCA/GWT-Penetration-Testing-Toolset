@@ -1,0 +1,6 @@
+# EXAMPLES
+
+```sh
+python gwt_rpc_enum.py -u "http://www.whirled.com/gwt/frame/frame.nocache.js"
+python gwt_rpc_enum.py -u "https://adwords.google.com/billing/ui/accountcancel/account_cancel_widget.nocache.js"
+```
